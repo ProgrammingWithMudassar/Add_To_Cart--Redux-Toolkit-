@@ -1,0 +1,21 @@
+.store_number{
+    background-color: yellow;
+    color: black;
+    height: 1.4rem;
+    width: 1.4rem;
+    margin-left: 0.2rem;
+    padding: 0px 0.4rem;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.account{
+    width: 170px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    justify-content: space-around;
+}
+.account>P{
+    cursor: pointer;
+}
